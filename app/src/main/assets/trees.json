@@ -1,0 +1,12 @@
+[
+  {"id": "1", "name": "Ponderosa pine", "icon": "https://arasbm.github.io/bc-trees/icons/ponderosapine_sil.gif"},
+  {"id": "2", "name": "Pacific crab apple", "icon": "https://arasbm.github.io/bc-trees/icons/pacificcrabapple_sil.gif"},
+  {"id": "3", "name": "Arbutus", "icon": "https://arasbm.github.io/bc-trees/icons/arbutus_sil.gif"},
+  {"id": "4", "name": "Trembling aspen", "icon": "https://arasbm.github.io/bc-trees/icons/tremblingaspen_sil.gif"},
+  {"id": "5", "name": "Paper birch", "icon": "https://arasbm.github.io/bc-trees/icons/paperbirch_sil.gif"},
+  {"id": "6", "name": "Western redcedar", "icon": "https://arasbm.github.io/bc-trees/icons/westernredcedar_sil.gif"},
+  {"id": "7", "name": "Yellow-cedar", "icon": "https://arasbm.github.io/bc-trees/icons/yellowcedar_sil.gif"},
+  {"id": "8", "name": "Pacific dogwood", "icon": "https://arasbm.github.io/bc-trees/icons/pacificdogwood_sil.gif"},
+  {"id": "9", "name": "Douglas-fir", "icon": "https://arasbm.github.io/bc-trees/icons/douglasfir_sil.gif"},
+  {"id": "10", "name": "Mountain alder", "icon": "https://arasbm.github.io/bc-trees/icons/mountainalder_sil.gif"}
+]
